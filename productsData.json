@@ -3,6 +3,7 @@
     "id": "nike_shose_nike_dunk_low_1",
     "name": "Nike dunk low retro",
     "price": 115.5,
+    "best_sale": "best sale",
     "details": {
       "detail_header": "TRUE TO YOUR CREW",
       "deatil_body": "Created for the hardwood but taken to the streets, the Nike Dunk Low Retro returns with crisp overlays and original team colors. This basketball icon channels '80s vibes with premium leather in the upper that looks good and breaks in even better. Modern footwear technology helps bring the comfort into the 21st century.",
@@ -65,6 +66,7 @@
     "id": "nike_shose_nike_dunk_low_2",
     "name": "Nike dunk low retro",
     "price": 115.5,
+    "best_sale": "best sale",
     "details": {
       "detail_header": "TRUE TO YOUR CREW",
       "deatil_body": "Created for the hardwood but taken to the streets, the Nike Dunk Low Retro returns with crisp overlays and original team colors. This basketball icon channels '80s vibes with premium leather in the upper that looks good and breaks in even better. Modern footwear technology helps bring the comfort into the 21st century.",
@@ -126,7 +128,7 @@
   {
     "id": "nike_shose_nike_dunk_low_3",
     "name": "Nike dunk low retro",
-
+    "best_sale": "best sale",
     "price": 115.5,
     "details": {
       "detail_header": "TRUE TO YOUR CREW",
@@ -189,7 +191,7 @@
   {
     "id": "nike_shose_nike_dunk_low_4",
     "name": "Nike dunk low retro",
-
+    "best_sale": "best sale",
     "price": 115.5,
     "details": {
       "detail_header": "TRUE TO YOUR CREW",
